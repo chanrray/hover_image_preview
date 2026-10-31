@@ -1,2 +1,2 @@
-Chrome extension:Preview images on the links on caoliu website.  
+Chrome extension:Preview images on the links on website.  
 ![image](cover.png)
